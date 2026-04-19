@@ -1,0 +1,2 @@
+# Multi-Scale-Performance-Benchmarking-of-YOLO-Models-for-Effervescent-Tablet-Defect-Detection
+Comparative benchmarking of YOLO11, YOLO12, and YOLO26 (n/s/m/l/x) for effervescent tablet defect detection on a newly constructed six-class dataset, with standardized training, class-wise evaluation, speed-accuracy trade-off analysis, confusion matrices, precision-recall curves, and Grad-CAM visualizations.
