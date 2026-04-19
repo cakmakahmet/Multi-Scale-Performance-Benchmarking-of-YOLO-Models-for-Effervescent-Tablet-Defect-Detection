@@ -168,7 +168,7 @@ Grad-CAM visualizations indicate that the best-performing model focuses on physi
 This supports the interpretability of the detector and its practical relevance for pharmaceutical inspection systems.
 
 ## Authors
-- Mustafa Yurdakul
+- Mustafa Yurdakul, PhD
 - Ahmet Melih Çakmak
 
 This repository is maintained as part of a collaborative academic study.
